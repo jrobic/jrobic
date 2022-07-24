@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrobic&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I'm currently working on `supervan`.
 
@@ -25,6 +24,9 @@
 ## Next
 ![Rust](https://img.shields.io/badge/rust-f66a00?style=for-the-badge&logo=rust&logoColor=white)
 
+## Github Stats
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrobic&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrobic&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
