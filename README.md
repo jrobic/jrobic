@@ -17,6 +17,14 @@
 ![TurboRepo](https://img.shields.io/badge/turborepo-111111?style=for-the-badge&logo=turborepo&logoColor=white)
 
 
+## Currently learning
+![GO](https://img.shields.io/badge/golang-007d9c?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/grpc-54bec6?style=for-the-badge&logo=cncf&logoColor=white)
+![K8s](https://img.shields.io/badge/kubernetes-336de6?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+## Next
+![Rust](https://img.shields.io/badge/rust-f66a00?style=for-the-badge&logo=rust&logoColor=white)
+
 
 
 <!--
