@@ -7,7 +7,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NestJs](https://img.shields.io/badge/nestjs-0e0e10?style=for-the-badge&logo=nestjs&logoColor=e0234e)
+![Fastify](https://img.shields.io/badge/fastify-0e0e10?style=for-the-badge&logo=fastify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MacOS](https://img.shields.io/badge/Mac_OS-e7e8ea?style=for-the-badge&logo=macos&logoColor=767677)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -18,11 +18,8 @@
 
 ## Currently learning
 ![GO](https://img.shields.io/badge/golang-007d9c?style=for-the-badge&logo=go&logoColor=white)
-![gRPC](https://img.shields.io/badge/grpc-54bec6?style=for-the-badge&logo=cncf&logoColor=white)
-![K8s](https://img.shields.io/badge/kubernetes-336de6?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-## Next
 ![Rust](https://img.shields.io/badge/rust-f66a00?style=for-the-badge&logo=rust&logoColor=white)
+
 
 ## Github Stats
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrobic&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
