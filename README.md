@@ -16,7 +16,7 @@
 ![TurboRepo](https://img.shields.io/badge/turborepo-111111?style=for-the-badge&logo=turborepo&logoColor=white)
 
 
-## Currently learning
+## Next
 ![GO](https://img.shields.io/badge/golang-007d9c?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-f66a00?style=for-the-badge&logo=rust&logoColor=white)
 
