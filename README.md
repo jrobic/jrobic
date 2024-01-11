@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I'm currently working on `supervan`.
+- 🔭 I'm currently working on `RATP - Usine Digital`.
 
 ## JS Stack At The Moment (And Tools!)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -16,9 +16,12 @@
 ![TurboRepo](https://img.shields.io/badge/turborepo-111111?style=for-the-badge&logo=turborepo&logoColor=white)
 
 
-## Next
-![GO](https://img.shields.io/badge/golang-007d9c?style=for-the-badge&logo=go&logoColor=white)
+## My new Favorite
 ![Rust](https://img.shields.io/badge/rust-f66a00?style=for-the-badge&logo=rust&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-d43008?style=for-the-badge&logo=svelte&logoColor=white)
+![HTMX](https://img.shields.io/badge/htmx-3366cc?style=for-the-badge&logo=htmx&logoColor=white)
+
+
 
 <!-- ## Others -->
 <!-- 
