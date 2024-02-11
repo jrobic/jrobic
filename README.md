@@ -29,23 +29,46 @@
 
 ## Github Stats
 
-[![Top Langs](https://github-profile-trophy.vercel.app/?username=jrobic&margin-w=5&margin-h=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
-[![Top Langs](https://github-profile-trophy.vercel.app/?username=jrobic&margin-w=5&margin-h=5&theme=onedark&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+<a href="https://github.com/ryo-ma/github-profile-trophy" alt="Jonathan Robic's github profile trophy">
+  <picture>
+    <source srcset="https://github-profile-trophy.vercel.app/?username=jrobic&margin-w=5&margin-h=5&theme=onedark&no-bg=true" media="(prefers-color-scheme: dark)">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=jrobic&margin-w=5&margin-h=5&no-bg=true" />
+  </picture>
+</a>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats" alt="Jonathan Robic's github stats">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api?username=jrobic&count_private=true&show_icons=true&theme=catppuccin_mocha&bg_color=00000000&hide_border=true&include_all_commits=true" media="(prefers-color-scheme: dark)">
+          <img align="top" src="https://github-readme-stats.vercel.app/api?username=jrobic&count_private=true&show_icons=true&theme=catppuccin_latte&bg_color=00000000&hide_border=true&include_all_commits=true" />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats" alt="Jonathan Robic's github stats">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jrobic&layout=compact&theme=catppuccin_mocha&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrobic&layout=compact&theme=catppuccin_latte&bg_color=00000000&hide_border=true" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://git.io/streak-stats" alt="Jonathan Robic's github streak">
+  <picture>
+    <source srcset="https://streak-stats.demolab.com/?user=jrobic&theme=catppuccin-mocha&background=00000000" media="(prefers-color-scheme: dark)">
+    <img align="center" src="https://streak-stats.demolab.com/?user=jrobic&theme=catppuccin-latte&background=00000000" />
+  </picture>
+</a>
 
 <br />
 
-<!-- light theme -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrobic&layout=compact&theme=catppuccin_latte&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrobic&show=prs_merged&count_private=true&show_icons=true&theme=catppuccin_latte&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-<!-- dark theme -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrobic&layout=compact&theme=catppuccin_mocha&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrobic&show=prs_merged&count_private=true&show_icons=true&theme=catppuccin_mocha&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-<br />
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jrobic&mode=daily&theme=catppuccin-latte&background=00000000)](https://git.io/streak-stats#gh-light-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jrobic&mode=daily&theme=catppuccin-mocha&background=00000000)](https://git.io/streak-stats#gh-dark-mode-only)
-
-<br />
-
-[![jrobic](https://komarev.com/ghpvc/?username=jrobic&label=Profile%20views&color=0e75b6&style=for-the-badge&base=1672)](https://github.com/antonkomarev/github-profile-views-counter)
+<a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Jonathan Robic's github profile views">
+  <picture>
+    <source srcset="https://komarev.com/ghpvc/?username=jrobic&label=Profile%20views&color=94e2d5&style=for-the-badge&base=1672" media="(prefers-color-scheme: dark)">
+    <img align="center" src="https://komarev.com/ghpvc/?username=jrobic&label=Profile%20views&color=458f94&style=for-the-badge&base=1672" />
+  </picture>
+</a>
