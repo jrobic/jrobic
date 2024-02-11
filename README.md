@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, i'm Jonathan Robic</h1>
-<h3 align="center">Senior Fullstack Web Developer</h3>
+# Hi 👋, i'm Jonathan Robic
 
-- 🔭 I'm currently working: <strong>RATP - Digitla Factory</strong></li>
-- 🌱 I'm currently learning and focusing: <strong>Rust</strong>, <strong>HTMX</strong> and <strong>Svelte</strong></li>
+- 🔭 I'm currently working on **Digital Factory of RATP** as a **Tech Lead JavaScript**
+- 🌱 I'm currently focusing on **Rust**, **HTMX** and **Svelte**
 
-<h2>JS Stack At The Moment (And Tools!)</h2>
+## JS Stack At The Moment (And Tools!)
 
 ![Typescript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
@@ -17,7 +16,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![TurboRepo](https://img.shields.io/badge/turborepo-111111?style=for-the-badge&logo=turborepo&logoColor=white)
 
-<h2>My new Favorite</h2>
+## My new Favorite
 
 ![Rust](https://img.shields.io/badge/rust-f66a00?style=for-the-badge&logo=rust&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-d43008?style=for-the-badge&logo=svelte&logoColor=white)
@@ -28,7 +27,7 @@
 [![Jrobic Codewars](https://www.codewars.com/users/jrobic/badges/micro?theme=light)](https://www.codewars.com/users/jrobic)
  -->
 
-<h2>Github Stats</h2>
+## Github Stats
 
 [![Top Langs](https://github-profile-trophy.vercel.app/?username=jrobic)](https://github.com/ryo-ma/github-profile-trophy)
 
