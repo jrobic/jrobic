@@ -29,12 +29,18 @@
 
 ## Github Stats
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" alt="Jonathan Robic's github profile trophy">
-  <picture>
-    <source srcset="https://github-profile-trophy.vercel.app/?username=jrobic&margin-w=5&margin-h=5&theme=onedark&no-bg=true" media="(prefers-color-scheme: dark)">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=jrobic&margin-w=5&margin-h=5&no-bg=true" />
-  </picture>
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ryo-ma/github-profile-trophy" alt="Jonathan Robic's github profile trophy">
+        <picture>
+          <source srcset="https://github-profile-trophy.vercel.app/?username=jrobic&margin-w=5&margin-h=5&theme=onedark&no-bg=true&no-frame=true" media="(prefers-color-scheme: dark)">
+          <img align="center" src="https://github-profile-trophy.vercel.app/?username=jrobic&margin-w=5&margin-h=5&no-bg=true&no-frame=true" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -57,14 +63,18 @@
   </tr>
 </table>
 
-<a href="https://git.io/streak-stats" alt="Jonathan Robic's github streak">
-  <picture>
-    <source srcset="https://streak-stats.demolab.com/?user=jrobic&theme=catppuccin-mocha&background=00000000" media="(prefers-color-scheme: dark)">
-    <img align="center" src="https://streak-stats.demolab.com/?user=jrobic&theme=catppuccin-latte&background=00000000" />
-  </picture>
-</a>
-
-<br />
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats" alt="Jonathan Robic's github streak">
+        <picture>
+          <source srcset="https://streak-stats.demolab.com/?user=jrobic&theme=catppuccin-mocha&background=00000000&hide_border=true" media="(prefers-color-scheme: dark)">
+          <img align="center" src="https://streak-stats.demolab.com/?user=jrobic&theme=catppuccin-latte&background=00000000&hide_border=true" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Jonathan Robic's github profile views">
   <picture>
