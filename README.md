@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, i'm Jonathan Robic</h1>
 <h3 align="center">Senior Fullstack Web Developer</h3>
 
-<ul style="margin-top: 2rem;">
-  <li>🔭 I'm currently working: <strong>RATP - Digitla Factory</strong></li>
-  <li>🌱 I'm currently learning and focusing: <strong>Rust</strong>, <strong>HTMX</strong> and <strong>Svelte</strong></li>
-<ul>
+- 🔭 I'm currently working: <strong>RATP - Digitla Factory</strong></li>
+- 🌱 I'm currently learning and focusing: <strong>Rust</strong>, <strong>HTMX</strong> and <strong>Svelte</strong></li>
 
 <h2>JS Stack At The Moment (And Tools!)</h2>
 
