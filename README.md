@@ -37,4 +37,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrobic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrobic&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jrobic&label=Profile%20views&color=0e75b6&style=for-the-badge&base=1672" alt="jeromehardaway" /> </p>
+<br>
+
+[![jrobic](https://komarev.com/ghpvc/?username=jrobic&label=Profile%20views&color=0e75b6&style=for-the-badge&base=1672)](https://github.com/antonkomarev/github-profile-views-counter)
