@@ -29,13 +29,19 @@
 
 ## Github Stats
 
-[![Top Langs](https://github-profile-trophy.vercel.app/?username=jrobic)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-profile-trophy.vercel.app/?username=jrobic&margin-w=5&margin-h=5
+)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/>
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrobic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrobic&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrobic&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrobic&show=prs_merged&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+<br />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jrobic&mode=daily&theme=catppuccin-frappe))](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jrobic&mode=daily&theme=catppuccin-latte)](https://git.io/streak-stats#gh-light-mode-only)
+
+<br />
 
 [![jrobic](https://komarev.com/ghpvc/?username=jrobic&label=Profile%20views&color=0e75b6&style=for-the-badge&base=1672)](https://github.com/antonkomarev/github-profile-views-counter)
