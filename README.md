@@ -1,7 +1,7 @@
 # Hi 👋, i'm Jonathan Robic
 
 - 🔭 I'm currently working on **Digital Factory of RATP** as a **Tech Lead JavaScript**
-- 🌱 I'm currently focusing on **Rust**, **HTMX** and **Svelte**
+- 🌱 I'm currently focusing on **Rust**, **Go**, **HTMX** and **Svelte**
 
 ## JS Stack At The Moment (And Tools!)
 
